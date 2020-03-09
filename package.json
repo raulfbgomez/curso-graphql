@@ -1,0 +1,15 @@
+{
+  "name": "curso-graphql",
+  "version": "1.0.0",
+  "description": "Aprendiendo GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@raulfbgomez",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "14.6.0"
+  }
+}
