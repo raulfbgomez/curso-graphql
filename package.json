@@ -4,7 +4,9 @@
   "description": "Aprendiendo GraphQL",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -e js, graphql index"
+    "start": "nodemon -e js, graphql index",
+    "lint": "standard",
+    "lint-fix": "standard --fix"
   },
   "keywords": [],
   "author": "@raulfbgomez",
@@ -15,6 +17,7 @@
     "graphql": "14.6.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
   }
 }
